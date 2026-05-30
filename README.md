@@ -1,2 +1,2 @@
 # sampletraining
-demo project
+demo project for great learning 
