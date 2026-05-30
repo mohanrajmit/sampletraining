@@ -1,2 +1,8 @@
 # sampletraining
-demo project for great learning 
+
+demo project for great learning
+
+
+
+steps for git command
+
